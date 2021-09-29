@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kadessovb02
-- 👀 I’m interested in finance and economics
-- 🌱 I’m currently learning programming and mathematics
+- 👋 Hi, I’m Kadessov Bek (Кадесов Бек)
+- 👀 I’m interested in finance and economics, reading.
+- 🌱 I’m currently learning Big Data Analysis in Astana IT University
 - 💞️ I’m looking to collaborate on startup
 - 📫 How to reach me kadesov_bek02@mail.ru
 
